@@ -1,0 +1,57 @@
+#input{
+    font-size: 18px;
+    background-color: azure;
+    margin: 10px;
+    width: 350px;
+    height: 500px;
+}
+#select{
+    font-size: 30px;
+    
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+}
+#syokiti{
+    font-size: 20px;
+   
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+#startbutton{
+    font-size: 30px;
+    background-color: cornsilk;
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+#resetbutton{
+    font-size: 30px;
+    background-color: cornsilk;
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+.layout{
+    display: flex;
+    background-color: cornsilk;
+}
+
+#graph{
+    background-color: azure;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+}
+#result{
+    font-size: 25px;
+    background-color: darkgray;
+    margin: 10px;
+    padding: 10;
+    width: 500px;
+    height: 50px;
+}
